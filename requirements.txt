@@ -1,0 +1,11 @@
+beautifulsoup4
+requests
+nltk
+langchain
+langchain-groq
+sentence_transformers
+faiss-cpu
+torch
+torchaudio
+torchvision
+python-dotenv

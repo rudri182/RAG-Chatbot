@@ -31,7 +31,7 @@ Install the dependencies using the following command:
 ## Chat
 
 1. `chat.py`
-- This script calls the trained model and user can chat.
+- This script calls the trained model and the user can chat.
 
 2. `qa.py`
 - This is the script for RAG application to enhance the performance. 

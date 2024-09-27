@@ -34,7 +34,7 @@ Install the dependencies using the following command:
 - This script calls the trained model and the user can chat.
 
 2. `qa.py`
-- This is the script for RAG application to enhance the performance. 
+- This is the script for a RAG application to enhance the performance. 
 - Here the FAISS vector-store is used for storing the embeddings and GROQ cloud is used to load the LLM `mixtral-8x7b-32768`. 
 - Create GROQ API key from this link: https://console.groq.com/ 
 - To know more about FAISS, visit this link: https://ai.meta.com/tools/faiss/ 

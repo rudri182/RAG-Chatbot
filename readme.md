@@ -25,7 +25,7 @@ Install the dependencies using the following command:
 
 1. `train_model.py`
 - This script will prepare data in the form that is required for transformer model fine-tuning.
-- Then it will load the pre-trained model encoder and tokenizer to train the model. Here `gpt2` is used as the application is chatbot.
+- Then it will load the pre-trained model encoder and tokenizer to train the model. Here `gpt2` is used as the application is a chatbot.
 -  The fine-tuned model is saved in _fine_tuned_model_ directory.
 
 ## Chat
